@@ -1,0 +1,14 @@
+D:\GB\Основной курс\знакомство с языками программирования\Seminar7\Sem7HW\bin\Debug\net7.0\Sem7HW.exe
+D:\GB\Основной курс\знакомство с языками программирования\Seminar7\Sem7HW\bin\Debug\net7.0\Sem7HW.deps.json
+D:\GB\Основной курс\знакомство с языками программирования\Seminar7\Sem7HW\bin\Debug\net7.0\Sem7HW.runtimeconfig.json
+D:\GB\Основной курс\знакомство с языками программирования\Seminar7\Sem7HW\bin\Debug\net7.0\Sem7HW.dll
+D:\GB\Основной курс\знакомство с языками программирования\Seminar7\Sem7HW\bin\Debug\net7.0\Sem7HW.pdb
+D:\GB\Основной курс\знакомство с языками программирования\Seminar7\Sem7HW\obj\Debug\net7.0\Sem7HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Основной курс\знакомство с языками программирования\Seminar7\Sem7HW\obj\Debug\net7.0\Sem7HW.AssemblyInfoInputs.cache
+D:\GB\Основной курс\знакомство с языками программирования\Seminar7\Sem7HW\obj\Debug\net7.0\Sem7HW.AssemblyInfo.cs
+D:\GB\Основной курс\знакомство с языками программирования\Seminar7\Sem7HW\obj\Debug\net7.0\Sem7HW.csproj.CoreCompileInputs.cache
+D:\GB\Основной курс\знакомство с языками программирования\Seminar7\Sem7HW\obj\Debug\net7.0\Sem7HW.dll
+D:\GB\Основной курс\знакомство с языками программирования\Seminar7\Sem7HW\obj\Debug\net7.0\refint\Sem7HW.dll
+D:\GB\Основной курс\знакомство с языками программирования\Seminar7\Sem7HW\obj\Debug\net7.0\Sem7HW.pdb
+D:\GB\Основной курс\знакомство с языками программирования\Seminar7\Sem7HW\obj\Debug\net7.0\Sem7HW.genruntimeconfig.cache
+D:\GB\Основной курс\знакомство с языками программирования\Seminar7\Sem7HW\obj\Debug\net7.0\ref\Sem7HW.dll
